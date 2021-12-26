@@ -4,7 +4,11 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-
+        exerciseOne();
+        exerciseTwo();
+        exerciseThree();
+        exerciseFour();
+        exerciseFive();
 
     }
     public static void exerciseOne(){
